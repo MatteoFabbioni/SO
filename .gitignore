@@ -1,0 +1,19 @@
+# Binari compilati da C (senza estensione)
+**/sha1index
+**/sha1dir
+**/sha1diff
+**/modifcmp
+**/modif
+**/semrecv
+**/semsend
+**/search_prec
+**/search_drec
+**/sigrx
+**/sigtx
+13-02-2025/Esercizio_1/ckfile
+13-02-2025/Esercizio_2/ckfile
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
